@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GetNeighboringHospitals</string>
+    <string name="title_activity_maps">Hospitals</string>
+    <string name="map_ready">Map is ready!</string>
+     <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+</resources>
