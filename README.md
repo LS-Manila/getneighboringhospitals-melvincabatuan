@@ -2,7 +2,7 @@
 
 getneighboringhospitals-melvincabatuan created by Classroom for GitHub
 
-This assignment illustrates the utilization of Google places in your application + getting the current location and placing a markers to neighboring hospitals. 
+This assignment illustrates the utilization of Google places in your application + getting the current location and placing markers to neighboring places, i.e. hospitals. 
 
 ## Keypoint:
 
