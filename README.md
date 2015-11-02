@@ -4,6 +4,14 @@ getneighboringhospitals-melvincabatuan created by Classroom for GitHub
 
 This assignment illustrates the utilization of Google places in your application + getting the current location and placing a markers to neighboring hospitals. 
 
+## Keypoint:
+
+Supply your own Browser Key:
+
+```java
+private static final String GOOGLE_BROWSER_KEY = "AIza..................Yu7w";
+```
+
 ## Accept
 
 To accept the assignment, click the following URL:
@@ -26,6 +34,9 @@ $ git push -u origin master
 <then Enter Username and Password>
 ```
 
+## Credits:
+
+Joseph Kulandai, http://javapapers.com/android/find-places-nearby-in-google-maps-using-google-places-apiandroid-app/ 
 
 ## Screenshots:
 
